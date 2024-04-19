@@ -1,0 +1,5 @@
+{
+  "cluster_name": "eks-management-cluster",
+  "cluster_version": "1.24",
+  "region": "us-west-1"
+}
